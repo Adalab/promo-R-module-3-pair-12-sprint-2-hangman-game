@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Routes, Route, Link, NavLink } from 'react-router-dom';
 
 // api
 import getWordFromApi from '../services/api';
